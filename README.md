@@ -1,51 +1,63 @@
-# Tatoeba Italian-Dutch Sentence Pair Dataset
+# Curated-1000-IT-NL Dataset
 
-This repository contains a dataset of sentence pairs in Italian and Dutch, sourced from the Tatoeba Project and curated for linguistic research and educational purposes. The primary focus of the curation process was to enhance the dataset for learning specific linguistic phenomena and ensuring a diverse variety of examples.
+## Overview
 
----
+The **Curated-1000-IT-NL** dataset was created to support machine translation tasks and linguistic research between Italian and Dutch. This dataset focuses on five specific linguistic phenomena:
 
-## Repository Structure
+1. Subject Omission
+2. Reflexive Constructions
+3. Double Negation
+4. Diminutives and Augmentatives
+5. Clitic Pronouns
 
-- **`/Datasets`**  
-  Contains the original and curated datasets.
-  - **`original_dataset.csv`**: The raw dataset downloaded from the Tatoeba Project, including all Italian-Dutch sentence pairs.
-  - **`curated_dataset.csv`**: The refined dataset, selected for linguistic variety and focused on specific phenomena.
-  
-- **`curator.ipynb`**  
-  The Jupyter Notebook used for the curation process. This notebook filters and selects sentences from the original dataset based on linguistic criteria.
+It consists of 1,000 sentence pairs selected from the Tatoeba Project and additional sentences generated using large language models to fill gaps for underrepresented phenomena. All generated data was manually reviewed to ensure quality.
 
----
+## Dataset Citation
 
-## Curation Process
+If you use this dataset, please cite it as follows:
 
-The curation was conducted using the `curator.ipynb` notebook, which applied the following steps:
+Derived from the Tatoeba Project, available at [https://tatoeba.org](https://tatoeba.org). For details on licensing, see [Tatoeba Terms of Use](https://tatoeba.org/en/terms_of_use).
 
-1. **Selection Criteria**  
-   Sentences were chosen to emphasize learning specific linguistic phenomena, such as:
-   - **Subject Emission** (common in Italian but not in Dutch).
-   - **Reflexive Constructions**.
-   - **Negation** (including double negation patterns).
-   - **Gendered Nouns and Articles**.
-   - **Clitic Pronouns**.
-   
-2. **Variety**  
-   Efforts were made to include sentences from a broad range of contexts, vocabulary, and complexity levels.
+## Project Structure
 
----
+The repository is organized as follows:
 
-## Dataset Details
+```
+├── curator.ipynb                      # Jupyter notebook for the dataset curation process
+├── analyst.ipynb                      # Jupyter notebook for dataset analysis
+├── Dataset/
+│   ├── Curated-1000-IT-NL.tsv         # Final curated dataset
+│   ├── Tatoeba-it-nl.tsv              # Original Tatoeba dataset for Italian-Dutch
+│   ├── Diminutives-Augmentatives-Generated-IT-NL.tsv # Generated data for diminutives/augmentatives
+│   ├── Double-Negation-Generated-IT-NL.tsv          # Generated data for double negation
+```
 
-- **Original Dataset**  
-  - Source: [Tatoeba Project](https://tatoeba.org/)
-  - Content: All available Italian-Dutch sentence pairs.
+## Installation
 
-- **Curated Dataset**  
-  - Focused on: Linguistic phenomena, variety, and sentence diversity.
+To run the `analyst.ipynb` notebook, you will need the [SentITA library](https://github.com/NicGian/SentITA).
 
----
+## Usage
+
+1. Use the `curator.ipynb` notebook to understand and reproduce the curation process.
+2. Use the `analyst.ipynb` notebook to analyze the dataset. Ensure you have `sentITA` installed.
+3. The dataset is available in the `Dataset` folder in TSV format, which can be directly loaded into your projects.
+
+## Limitations
+
+The dataset is heavily focused on five linguistic phenomena (60%) and may not provide sufficient coverage for other linguistic aspects. Additionally, it does not include disordered speech or significant regional language variations.
+
+## License
+
+This dataset is distributed under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). Please ensure proper attribution when using it in your work.
+
+## Contributing
+
+Contributions are welcome! If you would like to enhance the dataset or fix errors, feel free to submit a pull request. Report issues via the GitHub issue tracker.
 
 ## Acknowledgments
 
-The original dataset is courtesy of the [Tatoeba Project](https://tatoeba.org/), an open-source initiative providing multilingual sentence pairs. 
+This dataset is derived from the Tatoeba Project ([https://tatoeba.org](https://tatoeba.org)), licensed under CC BY 2.0 FR. Additional sentences were generated using tools like DeepL and ChatGPT and reviewed manually.
 
-If you use this dataset in your research or project, please cite the Tatoeba Project and provide attribution to this repository.
+## Contact
+
+For questions or issues, please open an issue in this repository.
