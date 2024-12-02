@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Non ho visto nessuno.",
+        "Dutch": "Ik heb niemand gezien."
+    },
+    {
+        "Italian": "Non c'è niente da fare.",
+        "Dutch": "Er is niets te doen."
+    },
+    {
+        "Italian": "Non posso non pensare a te.",
+        "Dutch": "Ik kan niet anders dan aan je denken."
+    },
+    {
+        "Italian": "Non è che non mi piaccia, ma non è il mio preferito.",
+        "Dutch": "Het is niet zo dat ik het niet leuk vind, maar het is niet mijn favoriet."
+    },
+    {
+        "Italian": "Non ho mai mangiato così tanto.",
+        "Dutch": "Ik heb nog nooit zo veel gegeten."
+    },
+    {
+        "Italian": "Non è possibile non notare la sua bellezza.",
+        "Dutch": "Het is onmogelijk om haar schoonheid niet op te merken."
+    },
+    {
+        "Italian": "Non sono affatto d'accordo.",
+        "Dutch": "Ik ben helemaal niet eens."
+    },
+    {
+        "Italian": "Non c'è nulla di cui preoccuparsi.",
+        "Dutch": "Er is niets om je zorgen over te maken."
+    },
+    {
+        "Italian": "Non ho intenzione di andare.",
+        "Dutch": "Ik heb niet de bedoeling om te gaan."
+    },
+    {
+        "Italian": "Non è che non voglia, ma non posso.",
+        "Dutch": "Het is niet zo dat ik niet wil, maar ik kan niet."
+    },
+    {
+        "Italian": "Non ho mai sentito una cosa del genere.",
+        "Dutch": "Ik heb nog nooit zoiets gehoord."
+    },
+    {
+        "Italian": "Non è facile non arrabbiarsi in questa situazione.",
+        "Dutch": "Het is niet makkelijk om niet boos te worden in deze situatie."
+    },
+    {
+        "Italian": "Non sono sicuro di non averlo già detto.",
+        "Dutch": "Ik ben niet zeker of ik het niet al heb gezegd."
+    },
+    {
+        "Italian": "Non c'è nulla che mi piaccia di più.",
+        "Dutch": "Er is niets wat ik meer leuk vind."
+    },
+    {
+        "Italian": "Non posso non sorridere quando lo vedo.",
+        "Dutch": "Ik kan niet anders dan glimlachen wanneer ik hem zie."
+    },
+    {
+        "Italian": "Non è che non capisca, ma è complicato.",
+        "Dutch": "Het is niet dat ik het niet begrijp, maar het is ingewikkeld."
+    },
+    {
+        "Italian": "Non ho mai incontrato qualcuno come te.",
+        "Dutch": "Ik heb nog nooit iemand zoals jou ontmoet."
+    },
+    {
+        "Italian": "Non è possibile non amare questo posto.",
+        "Dutch": "Het is onmogelijk om deze plek niet te liefhebben."
+    },
+    {
+        "Italian": "Non sono mai stato così felice.",
+        "Dutch": "Ik ben nog nooit zo gelukkig geweest."
+    },
+    {
+        "Italian": "Non c'è nulla di più importante della famiglia.",
+        "Dutch": "Er is niets belangrijker dan familie."
+    }
+]
+"""

@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Ho un gattino.",
+        "Dutch": "Ik heb een katje."
+    },
+    {
+        "Italian": "La casa è piccolina.",
+        "Dutch": "Het huis is klein."
+    },
+    {
+        "Italian": "Quel ragazzo è un po' svogliato.",
+        "Dutch": "Die jongen is een beetje lui."
+    },
+    {
+        "Italian": "Ho comprato una bottiglietta d'acqua.",
+        "Dutch": "Ik heb een klein flesje water gekocht."
+    },
+    {
+        "Italian": "La mia macchina è una macchinina sportiva.",
+        "Dutch": "Mijn auto is een klein sportief autootje."
+    },
+    {
+        "Italian": "Il gatto fa le fusa.",
+        "Dutch": "De kat snurkt."
+    },
+    {
+        "Italian": "La nonna prepara dei biscottini deliziosi.",
+        "Dutch": "Oma maakt heerlijke koekjes."
+    },
+    {
+        "Italian": "Il cagnolino abbaia al postino.",
+        "Dutch": "Het hondje blaft naar de postbode."
+    },
+    {
+        "Italian": "Ho una sorellina.",
+        "Dutch": "Ik heb een zusje."
+    },
+    {
+        "Italian": "Il libro è interessantissimo.",
+        "Dutch": "Het boek is ontzettend interessant."
+    },
+    {
+        "Italian": "Il bambino è molto vivacetto.",
+        "Dutch": "De jongen is erg levendig."
+    },
+    {
+        "Italian": "La torta è buonissima.",
+        "Dutch": "De taart is heerlijk."
+    },
+    {
+        "Italian": "Il mio amico ha comprato una casetta al mare.",
+        "Dutch": "Mijn vriend heeft een klein huisje aan zee gekocht."
+    },
+    {
+        "Italian": "La ragazza è molto carina.",
+        "Dutch": "Het meisje is erg schattig."
+    },
+    {
+        "Italian": "Il gattone dorme sul divano.",
+        "Dutch": "De grote kat slaapt op de bank."
+    },
+    {
+        "Italian": "La città è affollatissima.",
+        "Dutch": "De stad is enorm druk."
+    },
+    {
+        "Italian": "Il professore è molto esigentissimo.",
+        "Dutch": "De leraar is erg veeleisend."
+    },
+    {
+        "Italian": "Ho trovato una monetina per terra.",
+        "Dutch": "Ik vond een klein muntje op de grond."
+    },
+    {
+        "Italian": "La mia borsa è una borsetta elegante.",
+        "Dutch": "Mijn tas is een elegante handtas."
+    },
+    {
+        "Italian": "Il cane scodinzola felice.",
+        "Dutch": "De hond staart blij."
+    }
+]
+"""

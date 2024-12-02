@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Ho un gattino carino.",
+        "Dutch": "Ik heb een schattig katje."
+    },
+    {
+        "Italian": "Quella casa è una casetta accogliente.",
+        "Dutch": "Dat huis is een gezellig klein huisje."
+    },
+    {
+        "Italian": "Il bambino ha un amichetto nuovo.",
+        "Dutch": "De jongen heeft een nieuw vriendje."
+    },
+    {
+        "Italian": "Questa torta è una tortina deliziosa.",
+        "Dutch": "Deze taart is een heerlijk klein gebakje."
+    },
+    {
+        "Italian": "Il mio cane è un cagnolino molto intelligente.",
+        "Dutch": "Mijn hond is een erg slim hondje."
+    },
+    {
+        "Italian": "Ho comprato un paio di scarpettes nuove.",
+        "Dutch": "Ik heb een nieuw paar schoentjes gekocht."
+    },
+    {
+        "Italian": "La sua macchina è una macchinetta sportiva.",
+        "Dutch": "Zijn auto is een sportieve kleine wagen."
+    },
+    {
+        "Italian": "Il gatto ha fatto un piccolo miagolio.",
+        "Dutch": "De kat maakte een zacht miauwtje."
+    },
+    {
+        "Italian": "La bambina ha un vestitino rosa.",
+        "Dutch": "Het meisje heeft een roze jurkje."
+    },
+    {
+        "Italian": "Quel libro è un libricino interessante.",
+        "Dutch": "Dat boek is een interessant klein boekje."
+    },
+    {
+        "Italian": "Il mio amico ha un barchettino da corsa.",
+        "Dutch": "Mijn vriend heeft een racebootje."
+    },
+    {
+        "Italian": "La nonna ha preparato dei biscottini fatti in casa.",
+        "Dutch": "Oma heeft zelfgemaakte koekjes gebakken."
+    },
+    {
+        "Italian": "Il giardino è un giardinetto fiorito.",
+        "Dutch": "De tuin is een bloeiend tuintje."
+    },
+    {
+        "Italian": "Il bambino ha costruito un castellinino di sabbia.",
+        "Dutch": "De jongen bouwde een klein zandkasteel."
+    },
+    {
+        "Italian": "La mia penna è una penna stilografica minuscola.",
+        "Dutch": "Mijn pen is een minuscule vulpen."
+    },
+    {
+        "Italian": "Il gatto ha trovato un topolino nel magazzino.",
+        "Dutch": "De kat vond een muisje in de schuur."
+    },
+    {
+        "Italian": "La torta è una tortina al cioccolato.",
+        "Dutch": "De taart is een chocoladetaartje."
+    },
+    {
+        "Italian": "Il mio gatto fa le fusa come un motorecino.",
+        "Dutch": "Mijn kat snurkt als een motortje."
+    },
+    {
+        "Italian": "Ho una macchinetta fotografica compatta.",
+        "Dutch": "Ik heb een compact fototoestel."
+    },
+    {
+        "Italian": "La sua borsa è una borsetta elegante.",
+        "Dutch": "Haar tas is een elegante handtas."
+    }
+]
+"""

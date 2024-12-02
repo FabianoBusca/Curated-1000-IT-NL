@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "La mia bici è una biciclettina da città.",
+        "Dutch": "Mijn fiets is een kleine stadsfiets."
+    },
+    {
+        "Italian": "Quel uomo è un gigante, un omone!",
+        "Dutch": "Die man is een reus, een grote kerel!"
+    },
+    {
+        "Italian": "Ho una nuova tazza, una tazzina da espresso.",
+        "Dutch": "Ik heb een nieuwe mok, een klein espressokopje."
+    },
+    {
+        "Italian": "La sua voce è un po' rauca, quasi un accattone.",
+        "Dutch": "Zijn stem is een beetje hees, bijna een schorre stem."
+    },
+    {
+        "Italian": "Il gatto ha graffiato il divano, che disastro!",
+        "Dutch": "De kat heeft de bank gekrabd, wat een ramp!"
+    },
+    {
+        "Italian": "La mia città è una piccola perla, una cittadina incantevole.",
+        "Dutch": "Mijn stad is een klein pareltje, een charmante kleine stad."
+    },
+    {
+        "Italian": "Ho incontrato una vecchietta molto saggia.",
+        "Dutch": "Ik heb een oude, wijze vrouw ontmoet."
+    },
+    {
+        "Italian": "Il mio amico ha comprato un cagnolino, un vero batuffolo di pelo.",
+        "Dutch": "Mijn vriend heeft een hondje gekocht, een echte pluizige bol."
+    },
+    {
+        "Italian": "La torta è deliziosa, una vera tortina da favola.",
+        "Dutch": "De taart is heerlijk, een echt sprookjesachtig taartje."
+    },
+    {
+        "Italian": "La pioggia ha creato un laghetto nel cortile.",
+        "Dutch": "De regen heeft een klein meer in de tuin gecreëerd."
+    },
+    {
+        "Italian": "Quel edificio è un colosso, un vero grattacielo.",
+        "Dutch": "Dat gebouw is een kolos, een echte wolkenkrabber."
+    },
+    {
+        "Italian": "La mia nuova borsa è una borsetta elegante.",
+        "Dutch": "Mijn nieuwe tas is een elegante handtas."
+    },
+    {
+        "Italian": "Il bambino ha costruito un castellino di sabbia.",
+        "Dutch": "Het kind heeft een klein zandkasteel gebouwd."
+    },
+    {
+        "Italian": "La mia auto ha bisogno di una revisione, è un vero rottame.",
+        "Dutch": "Mijn auto heeft een opknapbeurt nodig, het is een echte klungel."
+    },
+    {
+        "Italian": "Il gatto ha un miagolio dolce come una ninna nanna.",
+        "Dutch": "De kat heeft een zacht miauwgeluid als een slaapliedje."
+    },
+    {
+        "Italian": "La torta è enorme, una tortona da record!",
+        "Dutch": "De taart is gigantisch, een recordbrekende taart!"
+    },
+    {
+        "Italian": "Il mio giardino è un piccolo paradiso, un giardinetto fiorito.",
+        "Dutch": "Mijn tuin is een klein paradijs, een bloeiend tuintje."
+    },
+    {
+        "Italian": "Ho trovato un vecchissimo libro, un vero cimelio.",
+        "Dutch": "Ik heb een heel oud boek gevonden, een echt antiek stuk."
+    },
+    {
+        "Italian": "Il film era emozionante, una vera avventura.",
+        "Dutch": "De film was spannend, een echt avontuur."
+    },
+    {
+        "Italian": "La mia amica ha un nuovo look, è una vera fashionista.",
+        "Dutch": "Mijn vriendin heeft een nieuwe stijl, ze is een echte mode-expert."
+    }
+]
+"""

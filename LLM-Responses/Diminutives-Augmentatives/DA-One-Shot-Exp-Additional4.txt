@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Ho un gattino.",
+        "Dutch": "Ik heb een katje."
+    },
+    {
+        "Italian": "La casa è piccolina.",
+        "Dutch": "Het huis is klein."
+    },
+    {
+        "Italian": "Quel ragazzo è un po' svogliato.",
+        "Dutch": "Die jongen is een beetje lui."
+    },
+    {
+        "Italian": "Ho comprato una bottiglietta d'acqua.",
+        "Dutch": "Ik heb een klein flesje water gekocht."
+    },
+    {
+        "Italian": "La mia macchina è una utilitaria.",
+        "Dutch": "Mijn auto is een kleine, praktische wagen."
+    },
+    {
+        "Italian": "Quel cane è un cagnolino adorabile.",
+        "Dutch": "Die hond is een schattig hondje."
+    },
+    {
+        "Italian": "Il bambino ha un viso paffutello.",
+        "Dutch": "Het kind heeft een rond, vol gezichtje."
+    },
+    {
+        "Italian": "La torta è deliziosa, ne vorrei un'altra fettina.",
+        "Dutch": "De taart is heerlijk, ik zou graag nog een klein stukje hebben."
+    },
+    {
+        "Italian": "Il mio amico ha comprato una casetta al mare.",
+        "Dutch": "Mijn vriend heeft een klein huisje aan zee gekocht."
+    },
+    {
+        "Italian": "La nonna mi ha dato un dolcetto.",
+        "Dutch": "Oma gaf me een klein gebakje."
+    },
+    {
+        "Italian": "Il gatto ha fatto un miagolio strano.",
+        "Dutch": "De kat maakte een rare miauw."
+    },
+    {
+        "Italian": "La ragazza ha un vestitino carino.",
+        "Dutch": "Het meisje draagt een schattig jurkje."
+    },
+    {
+        "Italian": "Il mio giardino è un piccolo angolo di paradiso.",
+        "Dutch": "Mijn tuin is een klein stukje paradijs."
+    },
+    {
+        "Italian": "Ho trovato un soldino per terra.",
+        "Dutch": "Ik vond een klein muntje op de grond."
+    },
+    {
+        "Italian": "La mia borsa è una borsettina elegante.",
+        "Dutch": "Mijn tas is een elegante, kleine handtas."
+    },
+    {
+        "Italian": "Il bambino ha costruito un castellino di sabbia.",
+        "Dutch": "Het kind bouwde een klein zandkasteel."
+    },
+    {
+        "Italian": "La pioggia ha lasciato poche goccioline sul vetro.",
+        "Dutch": "De regen liet een paar kleine druppels op het raam achter."
+    },
+    {
+        "Italian": "Il cuoco ha preparato un delizioso tortino al cioccolato.",
+        "Dutch": "De kok bereidde een heerlijke, kleine chocoladetaart."
+    },
+    {
+        "Italian": "La mia bicicletta è una biciettina da città.",
+        "Dutch": "Mijn fiets is een kleine stadsfiets."
+    },
+    {
+        "Italian": "Il cane ha portato un bastoncino.",
+        "Dutch": "De hond bracht een klein stokje."
+    }
+]
+"""

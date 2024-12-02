@@ -1,0 +1,80 @@
+"""
+[
+    {
+        "Italian": "La mia mamma prepara deliziosi biscottini.",
+        "Dutch": "Mijn moeder bakt heerlijke koekjes."
+    },
+    {
+        "Italian": "Quel bambino è un vero birbante, un monello.",
+        "Dutch": "Die jongen is een echte ondeugende, een schelm."
+    },
+    {
+        "Italian": "Ho una piccola libreria, una librerietta piena di tesori.",
+        "Dutch": "Ik heb een kleine boekenkast, een schatkamer vol boeken."
+    },
+    {
+        "Italian": "La nebbia è fitta, quasi una nebbiona.",
+        "Dutch": "De mist is dicht, bijna een dichte nevel."
+    },
+    {
+        "Italian": "Il mio gatto ha un musetto carino.",
+        "Dutch": "Mijn kat heeft een schattig snoetje."
+    },
+    {
+        "Italian": "La mia città è una metropoli, una grande metropoli.",
+        "Dutch": "Mijn stad is een metropool, een grote stad."
+    },
+    {
+        "Italian": "Ho incontrato una gentile signorina.",
+        "Dutch": "Ik heb een vriendelijke jonge dame ontmoet."
+    },
+    {
+        "Italian": "Il mio amico ha una nuova macchinina.",
+        "Dutch": "Mijn vriend heeft een nieuwe kleine auto."
+    },
+    {
+        "Italian": "La torta è squisita, una vera delizia.",
+        "Dutch": "De taart is uitstekend, een echte lekkernij."
+    },
+    {
+        "Italian": "La montagna è imponente, un gigantesco masso.",
+        "Dutch": "De berg is indrukwekkend, een gigantische rots."
+    },
+    {
+        "Italian": "La mia nonna racconta storie avvincenti, una vera narratrice.",
+        "Dutch": "Mijn oma vertelt boeiende verhalen, een echte verhalenverteller."
+    },
+    {
+        "Italian": "Ho una piccola ferita, una feritina superficiale.",
+        "Dutch": "Ik heb een klein wondje, een oppervlakkige snee."
+    },
+    {
+        "Italian": "Il gatto ha un miagolio acuto, quasi fastidioso.",
+        "Dutch": "De kat heeft een scherp miauw, bijna irritant."
+    },
+    {
+        "Italian": "La mia stanza è un caos, un vero disastro.",
+        "Dutch": "Mijn kamer is een rommeltje, een echte puinhoop."
+    },
+    {
+        "Italian": "Il film era commovente, una vera storia toccante.",
+        "Dutch": "De film was ontroerend, een echt raak verhaal."
+    },
+    {
+        "Italian": "La mia amica ha un nuovo paio di scarpe, sono adorabili.",
+        "Dutch": "Mijn vriendin heeft een nieuwe paar schoenen, ze zijn schattig."
+    },
+    {
+        "Italian": "La pioggia ha creato piccoli ruscelli per strada.",
+        "Dutch": "De regen heeft kleine beekjes op de straat gecreëerd."
+    },
+    {
+        "Italian": "Quel edificio è un antico monumento, un vero gioiello architettonico.",
+        "Dutch": "Dat gebouw is een oud monument, een echt architectonisch juweel."
+    },
+    {
+        "Italian": "La mia colazione è completa con una spremuta d'arancia, una vera delizia mattutina.",
+        "Dutch": "Mijn ontbijt is compleet met een glas sinaasappelsap, een echte ochtendlekkernij."
+    }
+]
+"""

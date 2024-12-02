@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Non ho visto nessuno.",
+        "Dutch": "Ik heb niemand gezien."
+    },
+    {
+        "Italian": "Non c'è nessuna possibilità.",
+        "Dutch": "Er is geen enkele mogelijkheid."
+    },
+    {
+        "Italian": "Non voglio niente di tutto ciò.",
+        "Dutch": "Ik wil niets van dat alles."
+    },
+    {
+        "Italian": "Non ho alcun dubbio.",
+        "Dutch": "Ik heb geen enkele twijfel."
+    },
+    {
+        "Italian": "Non è affatto vero.",
+        "Dutch": "Dat is helemaal niet waar."
+    },
+    {
+        "Italian": "Non ho mangiato nulla.",
+        "Dutch": "Ik heb niets gegeten."
+    },
+    {
+        "Italian": "Non c'è nulla di male.",
+        "Dutch": "Er is niets mis."
+    },
+    {
+        "Italian": "Non sono per niente felice.",
+        "Dutch": "Ik ben helemaal niet gelukkig."
+    },
+    {
+        "Italian": "Non ho nessun problema.",
+        "Dutch": "Ik heb geen enkele problemen."
+    },
+    {
+        "Italian": "Non è la prima volta che lo faccio.",
+        "Dutch": "Het is niet de eerste keer dat ik dat doe."
+    },
+    {
+        "Italian": "Non voglio che nessuno lo sappia.",
+        "Dutch": "Ik wil niet dat iemand het weet."
+    },
+    {
+        "Italian": "Non ci sono affatto sorprese.",
+        "Dutch": "Er zijn helemaal geen verrassingen."
+    },
+    {
+        "Italian": "Non è per niente facile.",
+        "Dutch": "Het is helemaal niet makkelijk."
+    },
+    {
+        "Italian": "Non ho mai visto nulla del genere.",
+        "Dutch": "Ik heb nog nooit iets dergelijks gezien."
+    },
+    {
+        "Italian": "Non è assolutamente vero.",
+        "Dutch": "Dat is absoluut niet waar."
+    },
+    {
+        "Italian": "Non ho alcuna intenzione di andare.",
+        "Dutch": "Ik heb geen enkele bedoeling om te gaan."
+    },
+    {
+        "Italian": "Non c'è niente di nuovo.",
+        "Dutch": "Er is niets nieuws."
+    },
+    {
+        "Italian": "Non sono per niente d'accordo.",
+        "Dutch": "Ik ben het helemaal niet eens."
+    },
+    {
+        "Italian": "Non ho nessun rimpianto.",
+        "Dutch": "Ik heb geen enkele spijt."
+    },
+    {
+        "Italian": "Non è la mia prima volta qui.",
+        "Dutch": "Het is niet mijn eerste keer hier."
+    }
+]
+"""

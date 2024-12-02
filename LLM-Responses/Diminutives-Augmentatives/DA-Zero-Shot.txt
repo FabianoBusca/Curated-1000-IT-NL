@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Ho comprato una piccola macchina rossa.",
+        "Dutch": "Ik heb een klein rood autootje gekocht."
+    },
+    {
+        "Italian": "La casa grande è in cima alla collina.",
+        "Dutch": "Het grote huis staat bovenop de heuvel."
+    },
+    {
+        "Italian": "Il gattino è così carino!",
+        "Dutch": "Het katje is zo schattig!"
+    },
+    {
+        "Italian": "Quel bambino è un po' birichino.",
+        "Dutch": "Dat kind is een beetje ondeugend."
+    },
+    {
+        "Italian": "La mia tazza preferita è quella piccola con i fiori.",
+        "Dutch": "Mijn favoriete kopje is dat kleine met de bloempjes."
+    },
+    {
+        "Italian": "Il suo cane è un grande amico.",
+        "Dutch": "Zijn hond is een grote vriend."
+    },
+    {
+        "Italian": "La vecchietta ci ha offerto dei biscotti.",
+        "Dutch": "De oude dame bood ons koekjes aan."
+    },
+    {
+        "Italian": "Ho visto un uccellino sul ramo.",
+        "Dutch": "Ik zag een vogeltje op de tak."
+    },
+    {
+        "Italian": "La mia stanza è diventata un po' troppo caotica.",
+        "Dutch": "Mijn kamer is een beetje te rommelig geworden."
+    },
+    {
+        "Italian": "Quel ragazzo è un vero genio.",
+        "Dutch": "Die jongen is een echte genie."
+    },
+    {
+        "Italian": "La torta grande è per il compleanno.",
+        "Dutch": "De grote taart is voor het verjaardagfeest."
+    },
+    {
+        "Italian": "Il mio libro preferito è quello con le illustrazioni piccole.",
+        "Dutch": "Mijn favoriete boek is dat met de kleine illustraties."
+    },
+    {
+        "Italian": "La sua voce è così dolce e suadente.",
+        "Dutch": "Haar stem is zoet en betoverend."
+    },
+    {
+        "Italian": "Il cucciolo ha fatto i suoi bisogni nel tappetino.",
+        "Dutch": "Het puppy heeft zijn behoeftes op het tapijt gedaan."
+    },
+    {
+        "Italian": "La mia borsa nuova è molto capiente.",
+        "Dutch": "Mijn nieuwe tas is erg ruim."
+    },
+    {
+        "Italian": "Quel pittore è un vero maestro.",
+        "Dutch": "Die schilder is een echte meester."
+    },
+    {
+        "Italian": "La luna piena illumina il cielo notturno.",
+        "Dutch": "De volle maan verlicht de nachtelijke hemel."
+    },
+    {
+        "Italian": "Il mio caffè è troppo forte oggi.",
+        "Dutch": "Mijn koffie is vandaag te sterk."
+    },
+    {
+        "Italian": "La sua risata è contagiosa.",
+        "Dutch": "Haar lach is besmettelijk."
+    },
+    {
+        "Italian": "Il giardino è pieno di fiori colorati.",
+        "Dutch": "De tuin is vol met gekleurde bloemen."
+    }
+]
+"""

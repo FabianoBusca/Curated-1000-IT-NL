@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Non ho visto nessuno al parco.",
+        "Dutch": "Ik heb niemand in het park gezien."
+    },
+    {
+        "Italian": "Non c'è niente di cui preoccuparsi.",
+        "Dutch": "Er is niets waarover je je zorgen hoeft te maken."
+    },
+    {
+        "Italian": "Non ho nessun dubbio sulla sua innocenza.",
+        "Dutch": "Ik heb geen twijfel over zijn onschuld."
+    },
+    {
+        "Italian": "Non voglio nessun regalo per il mio compleanno.",
+        "Dutch": "Ik wil geen cadeau voor mijn verjaardag."
+    },
+    {
+        "Italian": "Non c'erano alcuna prova per sostenere la sua teoria.",
+        "Dutch": "Er was geen bewijs om zijn theorie te ondersteunen."
+    },
+    {
+        "Italian": "Non ho incontrato nessuna persona interessante alla festa.",
+        "Dutch": "Ik heb geen interessante mensen op het feest ontmoet."
+    },
+    {
+        "Italian": "Non è vero che non hai studiato.",
+        "Dutch": "Het klopt niet dat je niet hebt gestudeerd."
+    },
+    {
+        "Italian": "Non posso dire di non essere felice.",
+        "Dutch": "Ik kan niet zeggen dat ik niet gelukkig ben."
+    },
+    {
+        "Italian": "Non è che non mi piaccia il cioccolato, ma non ne voglio ora.",
+        "Dutch": "Het is niet zo dat ik chocolade niet leuk vind, maar ik wil het nu niet."
+    },
+    {
+        "Italian": "Non ho alcun ricordo di quel giorno.",
+        "Dutch": "Ik heb geen herinnering aan die dag."
+    },
+    {
+        "Italian": "Non ci sono parole per descrivere la sua bellezza.",
+        "Dutch": "Er zijn geen woorden om haar schoonheid te beschrijven."
+    },
+    {
+        "Italian": "Non è possibile che non sia qui.",
+        "Dutch": "Het is niet mogelijk dat hij hier niet is."
+    },
+    {
+        "Italian": "Non ho mai incontrato nessuno come te.",
+        "Dutch": "Ik heb nog nooit iemand zoals jou ontmoet."
+    },
+    {
+        "Italian": "Non è vero che non puoi farcela.",
+        "Dutch": "Het klopt niet dat je het niet kunt redden."
+    },
+    {
+        "Italian": "Non ho alcun interesse a partecipare.",
+        "Dutch": "Ik heb geen interesse om deel te nemen."
+    },
+    {
+        "Italian": "Non c'è nulla di più bello di un tramonto sul mare.",
+        "Dutch": "Er is niets mooier dan een zonsondergang boven de zee."
+    },
+    {
+        "Italian": "Non è che non voglia aiutarti, ma ho le mani legate.",
+        "Dutch": "Het is niet zo dat ik je niet wil helpen, maar ik heb mijn handen gebonden."
+    },
+    {
+        "Italian": "Non ho ricevuto nessuna chiamata da parte sua.",
+        "Dutch": "Ik heb geen telefoontje van hem ontvangen."
+    },
+    {
+        "Italian": "Non è possibile che non abbia capito.",
+        "Dutch": "Het is niet mogelijk dat hij het niet heeft begrepen."
+    },
+    {
+        "Italian": "Non ho alcun rimpianto per le mie decisioni.",
+        "Dutch": "Ik heb geen spijt van mijn beslissingen."
+    }
+]
+"""

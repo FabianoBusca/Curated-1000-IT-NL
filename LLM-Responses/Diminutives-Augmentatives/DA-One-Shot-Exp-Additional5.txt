@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Ho un gattino.",
+        "Dutch": "Ik heb een katje."
+    },
+    {
+        "Italian": "La casa è piccolina.",
+        "Dutch": "Het huis is klein."
+    },
+    {
+        "Italian": "Quel ragazzo è un po' svogliato.",
+        "Dutch": "Die jongen is een beetje lui."
+    },
+    {
+        "Italian": "Ho comprato una bottiglietta d'acqua.",
+        "Dutch": "Ik heb een klein flesje water gekocht."
+    },
+    {
+        "Italian": "La mia macchina è una utilitaria.",
+        "Dutch": "Mijn auto is een kleine, praktische wagen."
+    },
+    {
+        "Italian": "Quel cane è un cagnolino adorabile.",
+        "Dutch": "Die hond is een schattig hondje."
+    },
+    {
+        "Italian": "Il bambino ha un viso paffutello.",
+        "Dutch": "Het kind heeft een rond, vol gezichtje."
+    },
+    {
+        "Italian": "La torta è deliziosa, ne vorrei un'altra fettina.",
+        "Dutch": "De taart is heerlijk, ik zou graag nog een klein stukje hebben."
+    },
+    {
+        "Italian": "Quel libro è un bestsellerone.",
+        "Dutch": "Dat boek is een enorme bestseller."
+    },
+    {
+        "Italian": "La mia nonna mi chiamava sempre 'bimbetto'.",
+        "Dutch": "Mijn oma noemde me altijd 'kleine jongen'."
+    },
+    {
+        "Italian": "La pioggia è leggera, quasi una pioggerellina.",
+        "Dutch": "De regen is zacht, bijna een motregen."
+    },
+    {
+        "Italian": "Ho un mal di testa terribile.",
+        "Dutch": "Ik heb een vreselijke hoofdpijn."
+    },
+    {
+        "Italian": "La mia amica ha un nuovo cucciolino.",
+        "Dutch": "Mijn vriendin heeft een nieuw puppytje."
+    },
+    {
+        "Italian": "Il villaggio è un piccolo gioiello.",
+        "Dutch": "Het dorpje is een klein juweeltje."
+    },
+    {
+        "Italian": "Quel pittore è un vero artista.",
+        "Dutch": "Die schilder is een echte kunstenaar."
+    },
+    {
+        "Italian": "La mia borsa è una borsettina elegante.",
+        "Dutch": "Mijn tas is een elegante handtas."
+    },
+    {
+        "Italian": "Il gatto fa le fusa come un trenino.",
+        "Dutch": "De kat snurkt als een treintje."
+    },
+    {
+        "Italian": "La mia stanza è un po' disordinatina.",
+        "Dutch": "Mijn kamer is een beetje rommelig."
+    },
+    {
+        "Italian": "Quel film è un capolavoro cinematografico.",
+        "Dutch": "Die film is een meesterwerk van de cinematografie."
+    },
+    {
+        "Italian": "Ho incontrato un vecchietto saggio.",
+        "Dutch": "Ik ontmoette een wijze oude man."
+    }
+]
+"""

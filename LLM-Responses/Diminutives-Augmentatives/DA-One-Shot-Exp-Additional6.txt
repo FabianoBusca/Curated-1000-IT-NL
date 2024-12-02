@@ -1,0 +1,80 @@
+"""
+[
+    {
+        "Italian": "La casa è piccolina.",
+        "Dutch": "Het huis is klein."
+    },
+    {
+        "Italian": "Quel ragazzo è un po' svogliato.",
+        "Dutch": "Die jongen is een beetje lui."
+    },
+    {
+        "Italian": "Ho comprato una bottiglietta d'acqua.",
+        "Dutch": "Ik heb een klein flesje water gekocht."
+    },
+    {
+        "Italian": "La mia macchina è una utilitaria.",
+        "Dutch": "Mijn auto is een kleine, praktische wagen."
+    },
+    {
+        "Italian": "Quel cane è un cagnolino adorabile.",
+        "Dutch": "Die hond is een schattig hondje."
+    },
+    {
+        "Italian": "Il bambino ha un viso paffutello.",
+        "Dutch": "Het kind heeft een rond, vol gezichtje."
+    },
+    {
+        "Italian": "La torta è deliziosa, ne vorrei un'altra fettina.",
+        "Dutch": "De taart is heerlijk, ik zou graag nog een klein stukje hebben."
+    },
+    {
+        "Italian": "Quel libro è un bestsellerone.",
+        "Dutch": "Dat boek is een enorme bestseller."
+    },
+    {
+        "Italian": "La mia nonna mi chiamava sempre 'bimbetto'.",
+        "Dutch": "Mijn oma noemde me altijd 'kleine jongen'."
+    },
+    {
+        "Italian": "Ho visto un uccellino sul ramo.",
+        "Dutch": "Ik zag een vogeltje op de tak."
+    },
+    {
+        "Italian": "La mia borsa è una borsettina elegante.",
+        "Dutch": "Mijn tas is een elegante, kleine handtas."
+    },
+    {
+        "Italian": "Quel film è un capolavorone.",
+        "Dutch": "Die film is een meesterwerk."
+    },
+    {
+        "Italian": "Il gatto ha fatto un miagolio strano.",
+        "Dutch": "De kat maakte een rare miauw."
+    },
+    {
+        "Italian": "La mia amica ha un vestitino carino.",
+        "Dutch": "Mijn vriendin heeft een schattig jurkje."
+    },
+    {
+        "Italian": "Quel bambino è un po' birichino.",
+        "Dutch": "Dat kind is een beetje ondeugend."
+    },
+    {
+        "Italian": "Ho trovato un monetina per terra.",
+        "Dutch": "Ik vond een klein muntje op de grond."
+    },
+    {
+        "Italian": "La mia macchina fotografica è una compattina.",
+        "Dutch": "Mijn camera is een compacte, kleine versie."
+    },
+    {
+        "Italian": "Quel pittore è un artista straordinarione.",
+        "Dutch": "Die schilder is een buitengewoon talent."
+    },
+    {
+        "Italian": "La mia gatta fa le fusa come un motore.",
+        "Dutch": "Mijn kat maakt geluidjes als een motor."
+    }
+]
+"""

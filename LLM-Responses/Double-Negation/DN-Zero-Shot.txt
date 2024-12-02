@@ -1,0 +1,88 @@
+"""
+[
+    {
+        "Italian": "Non vedo nessuno che non sia qui.",
+        "Dutch": "Ik zie niemand die hier niet is."
+    },
+    {
+        "Italian": "Non è vero che non ti piace il gelato.",
+        "Dutch": "Het is niet waar dat je geen ijs lust."
+    },
+    {
+        "Italian": "Non posso dire che non mi manchi.",
+        "Dutch": "Ik kan niet zeggen dat ik je niet mis."
+    },
+    {
+        "Italian": "Non è possibile che non sia successo.",
+        "Dutch": "Het is niet mogelijk dat het niet gebeurd is."
+    },
+    {
+        "Italian": "Non credo che non sia una buona idea.",
+        "Dutch": "Ik geloof niet dat het geen goed idee is."
+    },
+    {
+        "Italian": "Non ho mai detto di non voler venire.",
+        "Dutch": "Ik heb nooit gezegd dat ik niet wil komen."
+    },
+    {
+        "Italian": "Non è facile trovare qualcuno che non ami la pizza.",
+        "Dutch": "Het is niet makkelijk iemand te vinden die geen pizza leuk vindt."
+    },
+    {
+        "Italian": "Non è vero che non hai provato.",
+        "Dutch": "Het is niet waar dat je niet hebt geprobeerd."
+    },
+    {
+        "Italian": "Non posso negare che non sia preoccupato.",
+        "Dutch": "Ik kan niet ontkennen dat ik niet bezorgd ben."
+    },
+    {
+        "Italian": "Non è normale che non sia arrabbiato.",
+        "Dutch": "Het is niet normaal dat hij niet boos is."
+    },
+    {
+        "Italian": "Non ho capito che non volevi andare.",
+        "Dutch": "Ik begreep niet dat je niet wilde gaan."
+    },
+    {
+        "Italian": "Non è giusto che non sia stato invitato.",
+        "Dutch": "Het is niet eerlijk dat hij niet is uitgenodigd."
+    },
+    {
+        "Italian": "Non posso immaginare che non sia felice.",
+        "Dutch": "Ik kan me niet voorstellen dat hij niet gelukkig is."
+    },
+    {
+        "Italian": "Non è probabile che non torni.",
+        "Dutch": "Het is niet waarschijnlijk dat hij niet terugkomt."
+    },
+    {
+        "Italian": "Non è necessario che non lo sappia.",
+        "Dutch": "Het is niet nodig dat hij het niet weet."
+    },
+    {
+        "Italian": "Non è vero che non hai ragione.",
+        "Dutch": "Het is niet waar dat je ongelijk hebt."
+    },
+    {
+        "Italian": "Non posso accettare che non sia possibile.",
+        "Dutch": "Ik kan niet accepteren dat het niet mogelijk is."
+    },
+    {
+        "Italian": "Non è giusto giudicare senza conoscere la verità.",
+        "Dutch": "Het is niet rechtvaardig om te oordelen zonder de waarheid te kennen."
+    },
+    {
+        "Italian": "Non è facile spiegare che non mi piace.",
+        "Dutch": "Het is niet makkelijk uit te leggen dat ik het niet leuk vind."
+    },
+    {
+        "Italian": "Non ho mai pensato che non fosse una sfida.",
+        "Dutch": "Ik heb nooit gedacht dat het geen uitdaging was."
+    },
+    {
+        "Italian": "Non è il momento di discutere di ciò che non è importante.",
+        "Dutch": "Het is niet het moment om te discussiëren over wat niet belangrijk is."
+    }
+]
+"""

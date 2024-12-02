@@ -1,0 +1,20 @@
+"""
+[
+    {
+        "Italian": "Non ho visto nessuno al parco.",
+        "Dutch": "Ik heb niemand in het park gezien."
+    },
+    {
+        "Italian": "Non c'è niente di cui preoccuparsi.",
+        "Dutch": "Er is niets om je zorgen over te maken."
+    },
+    {
+        "Italian": "Non voglio nessun altro dolce.",
+        "Dutch": "Ik wil geen ander dessert."
+    },
+    {
+        "Italian": "Non ho nessun interesse in quel libro.",
+        "Dutch": "Ik heb geen interesse in dat boek."
+    }
+]
+"""

@@ -1,0 +1,80 @@
+"""
+[
+    {
+        "Italian": "La casa è piccolina.",
+        "Dutch": "Het huis is klein."
+    },
+    {
+        "Italian": "Quel ragazzo è un po' svogliato.",
+        "Dutch": "Die jongen is een beetje lui."
+    },
+    {
+        "Italian": "Ho comprato una bottiglietta d'acqua.",
+        "Dutch": "Ik heb een klein flesje water gekocht."
+    },
+    {
+        "Italian": "La mia macchina è una utilitaria.",
+        "Dutch": "Mijn auto is een kleine, praktische wagen."
+    },
+    {
+        "Italian": "Quel cane è un cagnolino adorabile.",
+        "Dutch": "Die hond is een schattig hondje."
+    },
+    {
+        "Italian": "Il bambino ha un viso paffutello.",
+        "Dutch": "Het kind heeft een rond, vol gezichtje."
+    },
+    {
+        "Italian": "La torta è deliziosa, ne vorrei un'altra fettina.",
+        "Dutch": "De taart is heerlijk, ik zou graag nog een klein stukje hebben."
+    },
+    {
+        "Italian": "Il mio amico ha comprato una casetta al mare.",
+        "Dutch": "Mijn vriend heeft een klein huisje aan zee gekocht."
+    },
+    {
+        "Italian": "La nonna ha preparato dei biscottini fatti in casa.",
+        "Dutch": "Oma heeft zelfgemaakte koekjes gebakken."
+    },
+    {
+        "Italian": "Il gatto ha un miagolio strano.",
+        "Dutch": "De kat maakt een vreemd gejank."
+    },
+    {
+        "Italian": "La ragazza ha un vestitino molto carino.",
+        "Dutch": "Het meisje draagt een heel schattig jurkje."
+    },
+    {
+        "Italian": "Il mio giardino è un piccolo angolo di paradiso.",
+        "Dutch": "Mijn tuin is een klein stukje paradijs."
+    },
+    {
+        "Italian": "Ho trovato un piccolo tesoro in spiaggia.",
+        "Dutch": "Ik heb een klein schatje gevonden op het strand."
+    },
+    {
+        "Italian": "Il libro è interessante, lo leggo in un attimo.",
+        "Dutch": "Het boek is interessant, ik lees het in een oogwenk."
+    },
+    {
+        "Italian": "La mia borsa è piena di piccole cose utili.",
+        "Dutch": "Mijn tas zit vol met handige kleine spulletjes."
+    },
+    {
+        "Italian": "Il bambino ha costruito un castello di sabbietta.",
+        "Dutch": "Het kind heeft een klein zandkasteel gebouwd."
+    },
+    {
+        "Italian": "La pioggia ha creato piccoli stagni per strada.",
+        "Dutch": "De regen heeft kleine plassen op de weg gecreëerd."
+    },
+    {
+        "Italian": "Il mio gatto adora inseguire i raggi di sole.",
+        "Dutch": "Mijn kat houdt ervan om zonnestralen achterna te rennen."
+    },
+    {
+        "Italian": "La pasticceria ha dei dolcetti deliziosi.",
+        "Dutch": "De bakkerij heeft heerlijke kleine gebakjes."
+    }
+]
+"""

@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Il gattino è molto carino.",
+        "Dutch": "Het katje is erg schattig."
+    },
+    {
+        "Italian": "Ho comprato una casetta al mare.",
+        "Dutch": "Ik heb een klein huisje aan zee gekocht."
+    },
+    {
+        "Italian": "Quel bambino è un po' birichino.",
+        "Dutch": "Dat kind is een beetje ondeugend."
+    },
+    {
+        "Italian": "La piantina sta crescendo bene.",
+        "Dutch": "Het plantje groeit goed."
+    },
+    {
+        "Italian": "Questo libro è noiosetto.",
+        "Dutch": "Dit boek is een beetje saai."
+    },
+    {
+        "Italian": "Hai visto il cagnone del vicino?",
+        "Dutch": "Heb je de grote hond van de buurman gezien?"
+    },
+    {
+        "Italian": "La torta è venuta un po' bruciacchiata.",
+        "Dutch": "De taart is een beetje aanbrandt."
+    },
+    {
+        "Italian": "Quel ragazzo è un vero furbetto.",
+        "Dutch": "Die jongen is een echte sluikard."
+    },
+    {
+        "Italian": "La mia macchina è una macchinina sportiva.",
+        "Dutch": "Mijn auto is een klein sportief wagentje."
+    },
+    {
+        "Italian": "Il gatto ha mangiato il topolino.",
+        "Dutch": "De kat heeft het muisje opgegeten."
+    },
+    {
+        "Italian": "La casa è diventata una casona dopo la ristrutturazione.",
+        "Dutch": "Het huis is na de verbouwing een grote villa geworden."
+    },
+    {
+        "Italian": "Quel signore è un po' burbero.",
+        "Dutch": "Die heer is een beetje chagrijnig."
+    },
+    {
+        "Italian": "La bambina ha un vestitino nuovo.",
+        "Dutch": "Het meisje heeft een nieuw jurkje."
+    },
+    {
+        "Italian": "Il cane ha trovato un ossetto.",
+        "Dutch": "De hond heeft een klein beentje gevonden."
+    },
+    {
+        "Italian": "La mia bici è più velocina della tua.",
+        "Dutch": "Mijn fiets is sneller dan de jouwe."
+    },
+    {
+        "Italian": "Quel ragazzo è un po' svampito.",
+        "Dutch": "Die jongen is een beetje verward."
+    },
+    {
+        "Italian": "La torta è alta e soffice.",
+        "Dutch": "De taart is hoog en luchtig."
+    },
+    {
+        "Italian": "Il gatto ha un miagolio dolce.",
+        "Dutch": "De kat heeft een zacht miauw."
+    },
+    {
+        "Italian": "La mia stanza è diventata un caos totale.",
+        "Dutch": "Mijn kamer is een totale rommel geworden."
+    },
+    {
+        "Italian": "Quel film è un po' nozionista.",
+        "Dutch": "Die film is een beetje saai en leerzaam."
+    }
+]
+"""

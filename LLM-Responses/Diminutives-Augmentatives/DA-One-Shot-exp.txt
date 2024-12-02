@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Ho un gattino.",
+        "Dutch": "Ik heb een katje."
+    },
+    {
+        "Italian": "La casa è piccolina.",
+        "Dutch": "Het huis is klein."
+    },
+    {
+        "Italian": "Quel bambino è un birbantino.",
+        "Dutch": "Dat kind is een ondeugertje."
+    },
+    {
+        "Italian": "Ho comprato un paio di scarpetti nuovi.",
+        "Dutch": "Ik heb een nieuw paar schoentjes gekocht."
+    },
+    {
+        "Italian": "La nonna prepara sempre deliziosi dolcetti.",
+        "Dutch": "Oma maakt altijd heerlijke koekjes."
+    },
+    {
+        "Italian": "Il gattone dorme sul divano.",
+        "Dutch": "De grote kat slaapt op de bank."
+    },
+    {
+        "Italian": "La torta è altissima!",
+        "Dutch": "De taart is heel hoog!"
+    },
+    {
+        "Italian": "Quel ragazzo è un po' svogliatino.",
+        "Dutch": "Die jongen is een beetje lui."
+    },
+    {
+        "Italian": "Ho visto un uccellino nel giardino.",
+        "Dutch": "Ik zag een vogeltje in de tuin."
+    },
+    {
+        "Italian": "La mia macchina è una utilitaria piccola.",
+        "Dutch": "Mijn auto is een kleine hatchback."
+    },
+    {
+        "Italian": "Il cagnone abbaia forte.",
+        "Dutch": "De grote hond blaft hard."
+    },
+    {
+        "Italian": "La signorina è molto elegante.",
+        "Dutch": "De jonge dame is erg elegant."
+    },
+    {
+        "Italian": "Ho un mal di testa terribile.",
+        "Dutch": "Ik heb een vreselijke hoofdpijn."
+    },
+    {
+        "Italian": "La mia sorellina adora i cartoni animati.",
+        "Dutch": "Mijn jongere zusje houdt van tekenfilms."
+    },
+    {
+        "Italian": "Il libro è molto interessante, l'ho letto in un attimo.",
+        "Dutch": "Het boek is erg interessant, ik heb het in een keer uitgelezen."
+    },
+    {
+        "Italian": "Quel signore è un po' burbero.",
+        "Dutch": "Die heer is een beetje grom."
+    },
+    {
+        "Italian": "La mia borsa è piena di piccoli oggetti.",
+        "Dutch": "Mijn tas zit vol met kleine spulletjes."
+    },
+    {
+        "Italian": "Il bambino ha costruito un castellino di sabbia.",
+        "Dutch": "Het kind heeft een zandkasteel gebouwd."
+    },
+    {
+        "Italian": "La mia gattina è molto giocosa.",
+        "Dutch": "Mijn katje is erg speels."
+    },
+    {
+        "Italian": "Ho incontrato un vecchio amico.",
+        "Dutch": "Ik heb een oude vriend ontmoet."
+    }
+]
+"""

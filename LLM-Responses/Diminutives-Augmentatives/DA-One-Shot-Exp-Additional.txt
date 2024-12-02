@@ -1,0 +1,84 @@
+"""
+[
+    {
+        "Italian": "Ho un gattino.",
+        "Dutch": "Ik heb een katje."
+    },
+    {
+        "Italian": "La casa è piccolina.",
+        "Dutch": "Het huis is klein."
+    },
+    {
+        "Italian": "Quel ragazzo è un po' svogliato.",
+        "Dutch": "Die jongen is een beetje lui."
+    },
+    {
+        "Italian": "Ho comprato una bottiglietta d'acqua.",
+        "Dutch": "Ik heb een klein flesje water gekocht."
+    },
+    {
+        "Italian": "La mia macchina è una utilitaria.",
+        "Dutch": "Mijn auto is een kleine, praktische wagen."
+    },
+    {
+        "Italian": "Quel cane è un cagnolino adorabile.",
+        "Dutch": "Die hond is een schattig hondje."
+    },
+    {
+        "Italian": "Il bambino ha un viso paffutello.",
+        "Dutch": "Het kind heeft een rond, vol gezichtje."
+    },
+    {
+        "Italian": "La torta è deliziosa, ma ne ho mangiata solo una fettina.",
+        "Dutch": "De taart is heerlijk, maar ik heb alleen een klein stukje gegeten."
+    },
+    {
+        "Italian": "Il mio amico ha un nuovo lavoretto.",
+        "Dutch": "Mijn vriend heeft een nieuwe deeltijdbaan."
+    },
+    {
+        "Italian": "La pioggia è leggera, quasi una pioggerellina.",
+        "Dutch": "De regen is zacht, bijna een motregen."
+    },
+    {
+        "Italian": "Quel gatto è un gattone enorme!",
+        "Dutch": "Die kat is een enorme, grote kat."
+    },
+    {
+        "Italian": "La mia nuova casa è un po' più grandina della precedente.",
+        "Dutch": "Mijn nieuwe huis is iets groter dan het vorige."
+    },
+    {
+        "Italian": "Ho incontrato un vecchio amico, un vero amico di lunga data.",
+        "Dutch": "Ik heb een oude vriend ontmoet, een echte vriend voor het leven."
+    },
+    {
+        "Italian": "La mia auto ha un bel motorino.",
+        "Dutch": "Mijn auto heeft een mooie, krachtige motor."
+    },
+    {
+        "Italian": "Il mio gatto fa le fusa come un gattone felice.",
+        "Dutch": "Mijn kat snurkt als een gelukkige, grote kat."
+    },
+    {
+        "Italian": "La torta è enorme, una tortona!",
+        "Dutch": "De taart is enorm, een gigantische taart!"
+    },
+    {
+        "Italian": "Il bambino ha una vocina dolce.",
+        "Dutch": "Het kind heeft een zoete, zachte stem."
+    },
+    {
+        "Italian": "La mia sorella ha un nuovo fidanzatino.",
+        "Dutch": "Mijn zus heeft een nieuwe vriendje."
+    },
+    {
+        "Italian": "Il film era noioso, una vera delusione.",
+        "Dutch": "De film was saai, een echte teleurstelling."
+    },
+    {
+        "Italian": "Ho trovato un piccolo tesoro in soffitta.",
+        "Dutch": "Ik heb een klein schatje op zolder gevonden."
+    }
+]
+"""
