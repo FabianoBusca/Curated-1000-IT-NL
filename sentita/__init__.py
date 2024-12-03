@@ -11,7 +11,6 @@ from keras.models import Model
 from keras import backend as K
 import numpy as np
 import pickle
-import it_core_news_sm
 import spacy
 import re
 import os
@@ -22,7 +21,7 @@ dir_path = os.path.dirname(path)+'\\'
 MAX_SEQUENCE_LENGTH = 35
 EMBEDDING_DIM = 300
 MAX_N_WEMBS = 200000
-nlp = it_core_news_sm.load()
+nlp = spacy.load('it_core_news_sm')
 NB_WEMBS = MAX_N_WEMBS
 
 with open(dir_path + 'wemb_ind.pkl', 'rb') as f:    
@@ -65,7 +64,7 @@ def load_model(MAX_SEQUENCE_LENGTH, EMBEDDING_DIM):
     emb_dim = EMBEDDING_DIM
     
     x1 = Input(shape=(max_len,))
-    w_embed = Embedding(NB_WEMBS+1, emb_dim, trainable=False)(x1)
+    w_embed = Embedding(NB_WEMBS+1, emb_dim, input_length=max_len, trainable=False)(x1)
     w_embed = Dropout(0.5)(Dense(64, activation='relu')(w_embed))
     h = Conv1D(filters=32, kernel_size=2, padding='valid', activation='relu')(w_embed)
     h = Bidirectional(LSTM(32, return_sequences=True, recurrent_dropout=0.5), merge_mode='concat')(h)
